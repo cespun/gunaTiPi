@@ -3,6 +3,30 @@
 #EXTINF:0 tvg-logo="https://spng.subpng.com/20180714/hww/kisspng-exit-sign-computer-icons-emergency-exit-exit-png-5b49cb48092969.5990852215315628240375.jpg" group-title="Local Channel",EXIT
 rtp://@239.123.123.123:0123
 
+#EXTINF:0 tvg-logo="https://infokampus.news/wp-content/uploads/2017/11/Slide1-800x445.jpg" group-title="Local Channel",RCTI
+https://moegi.akamaized.net/live/eds/rcti_fta/live_fta/rcti_fta-avc1_256000=8-mp4a_64000=2.m3u8
+#EXTINF:0 tvg-logo="https://infokampus.news/wp-content/uploads/2017/11/Slide1-800x445.jpg" group-title="Local Channel",RCTI
+https://moegi.akamaized.net/live/eds/rcti_fta/live_fta/rcti_fta-avc1_768000=6-mp4a_64000=2.m3u8
+#EXTINF:-1 tvg-logo="https://cobainaja.my.id/img/rcti.png" group-title="Local Channel", RCTI
+https://moegi.akamaized.net/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=7-mp4a_64000=2.m3u8
+#EXTINF:0 tvg-logo="https://media.tabloidbintang.com/files/thumb/e76bd7972dc6418b513a03a14beb3bf2.jpg" group-title="Local Channel",MNCTV
+https://moegi.akamaized.net/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_256000=8-mp4a_64000=2.m3u8
+#EXTINF:0 tvg-logo="https://media.tabloidbintang.com/files/thumb/e76bd7972dc6418b513a03a14beb3bf2.jpg" group-title="Local Channel",MNCTV
+https://moegi.akamaized.net/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_768000=6-mp4a_64000=2.m3u8
+#EXTINF:-1 tvg-logo="https://cobainaja.my.id/img/mnctv.png" group-title="Local Channel", MNCTV 
+https://moegi.akamaized.net/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1537200=7-mp4a_64000=2.m3u8
+#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_81.png" group-title="Local Channel",GTV
+https://moegi.akamaized.net/live/eds/gtv_fta/live_fta/gtv_fta-avc1_256000=8-mp4a_64000=2.m3u8
+#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_81.png" group-title="Local Channel",GTV
+https://moegi.akamaized.net/live/eds/gtv_fta/live_fta/gtv_fta-avc1_768000=6-mp4a_64000=2.m3u8
+#EXTINF:-1 tvg-logo="https://cobainaja.my.id/img/gtv.png" group-title="Local Channel", GTV
+https://moegi.akamaized.net/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=7-mp4a_64000=2.m3u8
+#EXTINF:0 tvg-logo="https://image.ibb.co/hjiDeK/inewslogo.png" group-title="Local Channel",iNEWS
+https://moegi.akamaized.net/live/eds/inews_fta/live_fta/inews_fta-avc1_256000=8-mp4a_64000=2.m3u8
+#EXTINF:0 tvg-logo="https://image.ibb.co/hjiDeK/inewslogo.png" group-title="Local Channel",iNEWS
+https://moegi.akamaized.net/live/eds/inews_fta/live_fta/inews_fta-avc1_768000=6-mp4a_64000=2.m3u8
+#EXTINF:-1 tvg-logo="https://cobainaja.my.id/img/inews.png" group-title="Local Channel", INEWS
+https://moegi.akamaized.net/live/eds/inews_fta/live_fta/inews_fta-avc1_1537200=7-mp4a_64000=2.m3u8
 #EXTINF:0 tvg-logo="http://i.ibb.co/0mLXF0f/useemozaik.png" group-title="Local Channel",2 Mozaik Channel
 rtp://@239.1.2.223:9268
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5b/UseeTV.png/200px-UseeTV.png" group-title="Local Channel",80 Ruang Trampil
