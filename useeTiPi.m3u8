@@ -628,23 +628,23 @@ rtp://@239.1.1.190:9116
 https://moegi.akamaized.net/live/eds/rcti_fta/live_fta/rcti_fta-avc1_256000=8-mp4a_64000=2.m3u8
 #EXTINF:0 tvg-logo="https://infokampus.news/wp-content/uploads/2017/11/Slide1-800x445.jpg" group-title="MNC GROUP",RCTI
 https://moegi.akamaized.net/live/eds/rcti_fta/live_fta/rcti_fta-avc1_768000=6-mp4a_64000=2.m3u8
-#EXTINF:-1 tvg-logo="https://cobainaja.my.id/img/rcti.png" group-title="MNC GROUP", RCTI
+#EXTINF:0 tvg-logo="https://infokampus.news/wp-content/uploads/2017/11/Slide1-800x445.jpg" group-title="MNC GROUP", RCTI
 https://moegi.akamaized.net/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=7-mp4a_64000=2.m3u8
 #EXTINF:0 tvg-logo="https://media.tabloidbintang.com/files/thumb/e76bd7972dc6418b513a03a14beb3bf2.jpg" group-title="MNC GROUP",MNCTV
 https://moegi.akamaized.net/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_256000=8-mp4a_64000=2.m3u8
 #EXTINF:0 tvg-logo="https://media.tabloidbintang.com/files/thumb/e76bd7972dc6418b513a03a14beb3bf2.jpg" group-title="MNC GROUP",MNCTV
 https://moegi.akamaized.net/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_768000=6-mp4a_64000=2.m3u8
-#EXTINF:-1 tvg-logo="https://cobainaja.my.id/img/mnctv.png" group-title="MNC GROUP", MNCTV 
+#EXTINF:0 tvg-logo="https://media.tabloidbintang.com/files/thumb/e76bd7972dc6418b513a03a14beb3bf2.jpg" group-title="MNC GROUP", MNCTV 
 https://moegi.akamaized.net/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1537200=7-mp4a_64000=2.m3u8
 #EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_81.png" group-title="MNC GROUP",GTV
 https://moegi.akamaized.net/live/eds/gtv_fta/live_fta/gtv_fta-avc1_256000=8-mp4a_64000=2.m3u8
 #EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_81.png" group-title="MNC GROUP",GTV
 https://moegi.akamaized.net/live/eds/gtv_fta/live_fta/gtv_fta-avc1_768000=6-mp4a_64000=2.m3u8
-#EXTINF:-1 tvg-logo="https://cobainaja.my.id/img/gtv.png" group-title="MNC GROUP", GTV
+#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_81.png" group-title="MNC GROUP", GTV
 https://moegi.akamaized.net/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=7-mp4a_64000=2.m3u8
 #EXTINF:0 tvg-logo="https://image.ibb.co/hjiDeK/inewslogo.png" group-title="MNC GROUP",iNEWS
 https://moegi.akamaized.net/live/eds/inews_fta/live_fta/inews_fta-avc1_256000=8-mp4a_64000=2.m3u8
 #EXTINF:0 tvg-logo="https://image.ibb.co/hjiDeK/inewslogo.png" group-title="MNC GROUP",iNEWS
 https://moegi.akamaized.net/live/eds/inews_fta/live_fta/inews_fta-avc1_768000=6-mp4a_64000=2.m3u8
-#EXTINF:-1 tvg-logo="https://cobainaja.my.id/img/inews.png" group-title="MNC GROUP", INEWS
+#EXTINF:0 tvg-logo="https://image.ibb.co/hjiDeK/inewslogo.png" group-title="MNC GROUP", INEWS
 https://moegi.akamaized.net/live/eds/inews_fta/live_fta/inews_fta-avc1_1537200=7-mp4a_64000=2.m3u8
