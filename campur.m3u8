@@ -6,23 +6,23 @@ https://moegi.akamaized.net/live/eds/rcti_fta/live_fta/rcti_fta-avc1_768000=6-mp
 #EXTINF:-1 tvg-logo="https://cobainaja.my.id/img/rcti.png" group-title="Lokal", RCTI
 https://moegi.akamaized.net/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=7-mp4a_64000=2.m3u8
 #EXTINF:0 tvg-logo="https://media.tabloidbintang.com/files/thumb/e76bd7972dc6418b513a03a14beb3bf2.jpg" group-title="Lokal",MNCTV
-https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_256000=8-mp4a_64000=2.m3u8
+https://moegi.akamaized.net/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_256000=8-mp4a_64000=2.m3u8
 #EXTINF:0 tvg-logo="https://media.tabloidbintang.com/files/thumb/e76bd7972dc6418b513a03a14beb3bf2.jpg" group-title="Lokal",MNCTV
-https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_878719=7-mp4a_64000=2.m3u8
+https://moegi.akamaized.net/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_768000=6-mp4a_64000=2.m3u8
 #EXTINF:-1 tvg-logo="https://cobainaja.my.id/img/mnctv.png" group-title="Lokal", MNCTV 
-https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1537200=6-mp4a_64000=2.m3u8
+https://moegi.akamaized.net/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1537200=7-mp4a_64000=2.m3u8
 #EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_81.png" group-title="Lokal",GTV
-https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_256000=8-mp4a_64000=2.m3u8
+https://moegi.akamaized.net/live/eds/gtv_fta/live_fta/gtv_fta-avc1_256000=8-mp4a_64000=2.m3u8
 #EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_81.png" group-title="Lokal",GTV
-https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_878719=7-mp4a_64000=2.m3u8
+https://moegi.akamaized.net/live/eds/gtv_fta/live_fta/gtv_fta-avc1_768000=6-mp4a_64000=2.m3u8
 #EXTINF:-1 tvg-logo="https://cobainaja.my.id/img/gtv.png" group-title="Lokal", GTV
-https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=6-mp4a_64000=2.m3u8
+https://moegi.akamaized.net/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=7-mp4a_64000=2.m3u8
 #EXTINF:0 tvg-logo="https://image.ibb.co/hjiDeK/inewslogo.png" group-title="Lokal",iNEWS
-https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_256000=8-mp4a_64000=2.m3u8
+https://moegi.akamaized.net/live/eds/inews_fta/live_fta/inews_fta-avc1_256000=8-mp4a_64000=2.m3u8
 #EXTINF:0 tvg-logo="https://image.ibb.co/hjiDeK/inewslogo.png" group-title="Lokal",iNEWS
-https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_878719=7-mp4a_64000=2.m3u8
+https://moegi.akamaized.net/live/eds/inews_fta/live_fta/inews_fta-avc1_768000=6-mp4a_64000=2.m3u8
 #EXTINF:-1 tvg-logo="https://cobainaja.my.id/img/inews.png" group-title="Lokal", INEWS
-https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_1537200=6-mp4a_64000=2.m3u8
+https://moegi.akamaized.net/live/eds/inews_fta/live_fta/inews_fta-avc1_1537200=7-mp4a_64000=2.m3u8
 #EXTINF:-1 tvg-logo="https://cobainaja.my.id/img/ls1.png" group-title="Lokal",Live Streaming 1
 http://rr3.dens.tv/s/s100/live.m3u8
 #EXTINF:-1 tvg-logo="https://cobainaja.my.id/img/ls2.png" group-title="Lokal",Live Streaming 2
